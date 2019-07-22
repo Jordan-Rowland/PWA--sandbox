@@ -1,0 +1,37 @@
+{
+    "name": "My First PWA",
+    "short_name": "MyPWA",
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3F51B5",
+    "description": "My first PWA, bitch",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "icons": [
+                {
+                    "src": "images/icons/app-icon-48x48.png",
+                    "type": "image,png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "images/icons/app-icon-96x96.png",
+                    "type": "image,png",
+                    "sizes": "96x96"
+                },
+                {
+                    "src": "images/icons/app-icon-256x256.png",
+                    "type": "image,png",
+                    "sizes": "256x256"
+                }
+            ],
+    "related_applications": [
+                                {
+                                    "platform": "",
+                                    "url": "",
+                                    "id": ""
+                                }
+                            ]
+}
